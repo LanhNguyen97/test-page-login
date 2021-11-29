@@ -79,7 +79,7 @@ export const WrapperFormLogin = styled.div`
     box-shadow: 0px 12px 23px rgba(62, 73, 84, 0.04);
     border-radius: 5px;
     padding: 50px;
-    width: 23vw;
+    width: 27vw;
 
     &__title {
       margin-bottom: 50px;

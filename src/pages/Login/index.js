@@ -97,7 +97,7 @@ const Login = () => {
     <WrapperLogin>
       <div className="wrapper-background">
         <img
-          style={{ maxWidth: "650px", maxHeight: "70vh" }}
+          style={{ maxWidth: "650px", maxHeight: "90vh" }}
           src="/bg.png"
           alt=""
         />
